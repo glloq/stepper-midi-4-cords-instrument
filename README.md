@@ -1,5 +1,5 @@
 # stepper-midi-4-cords-instrument
-l'objectif est de faire jouer un instrument a 4 cordes comme un ukulele, banjo ou basse avec des moteurs pas a pas et des servomoteurs
+l'objectif est de faire jouer un instrument a 4 cordes comme un ukulele, banjo, guitare tenor ou basse avec des moteurs pas a pas et des servomoteurs
 
 ## materiel
 
