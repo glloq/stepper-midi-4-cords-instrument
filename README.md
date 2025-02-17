@@ -30,7 +30,7 @@ struct StringMapping {
   uint8_t pinStep;        // Broche STEP du shield CNC
   uint8_t pinDir;         // Broche DIR du shield CNC
   uint8_t pinEndStop;     // Broche de l'endstop pour le homing
-  int homeOffset;         // Décalage (en pas ou mm) entre l'endstop et la position corde à vide
+  int homeOffset;         // Décalage (en mm) entre l'endstop et la position corde à vide
   bool reverseDirection;  // Inverse le sens du moteur (true pour inverser)
   uint8_t servoFingerPin; // Canal PCA9685 pour le servo "doigt"
   uint8_t servoPluckPin;  // Canal PCA9685 pour le servo "grattage"
